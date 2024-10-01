@@ -36,12 +36,7 @@ This repository contains a TensorFlow-based deep learning model for sentiment an
    cd SentiToolKit
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up environment variables for the path to your training data:
+2. Set up environment variables for the path to your training data:
    - Create a `.env` file in the root directory and add the following line:
      ```
      path_to_training_data="path_to_your_json_data"
@@ -97,12 +92,6 @@ After training, the model will evaluate the performance on the test set. The eva
 ```
 Test Accuracy: 87.55%
 ```
-
-## Improvements
-- **Data Augmentation**: Adding more diverse examples for neutral sentiments can improve performance.
-- **Hyperparameter Tuning**: Experimenting with different numbers of LSTM units, dropout rates, and batch sizes may lead to better results.
-- **Pre-trained Embeddings**: Using pre-trained word embeddings like GloVe or Word2Vec may enhance the model's ability to understand the context of words.
-- **Handling Imbalanced Data**: Use techniques like oversampling, undersampling, or SMOTE to handle any imbalances in the sentiment categories.
 
 ## License
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 - see the [LICENSE](LICENSE) file for details.
