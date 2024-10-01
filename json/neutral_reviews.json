@@ -1,0 +1,3358 @@
+[
+    {
+        "review": "The product arrived on time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The packaging was standard.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "I used the item as expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The color is the same as described.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It performs its function.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The quality is what I anticipated.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "Nothing extraordinary about this product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The price was reasonable for what it offers.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The material feels decent.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It serves its purpose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "This product is exactly what I ordered.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item looks as expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It does the job.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product fits the description provided.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It met my expectations.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The size is accurate.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The performance is average.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "I don\u00e2\u20ac\u2122t have any strong feelings about it.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It works well for basic needs.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The delivery was neither fast nor slow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "This item is as described.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The design is quite simple.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a functional product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s neither great nor bad.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The instructions were clear.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The build quality is as expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s what I expected for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is acceptable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s not the best, but not the worst.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item works fine.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a standard product for its category.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The quality is okay for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item performs as expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It has no standout features.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s an average product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The features are adequate.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s decent for its intended purpose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a basic product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product arrived in good condition.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item functions well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The durability seems fine.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It operates as expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is neither outstanding nor disappointing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It works, but nothing more.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product meets basic expectations.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s functional but not impressive.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is alright for its price range.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a simple and effective item.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The performance matches the description.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item has no noticeable flaws.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It serves its intended purpose without issue.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It works, but not exceptionally.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product was delivered as advertised.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a fairly standard item.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The material feels reasonable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item performs its basic function.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is neither a standout nor a failure.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s an adequate product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The quality is what I anticipated for this price point.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is satisfactory.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a fairly typical product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It works fine for what it is.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The design is minimalist.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s an average item for everyday use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "There are no major issues with this product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It meets the standard expectations.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item does what it\u00e2\u20ac\u2122s supposed to.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s functional for what it\u00e2\u20ac\u2122s worth.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "There are no major complaints.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The performance is as expected for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s fine for everyday use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The quality is consistent with the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is neutral in performance.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s not bad, but not remarkable either.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product matches the description well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s neither great nor terrible.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is okay overall.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s an ordinary item.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product meets the basic requirements.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The packaging was standard but sufficient.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The functionality is acceptable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product has no surprises.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s decent for general use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product performs adequately.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s an unremarkable but functional item.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s what I expected from the description.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item works for its intended purpose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s an acceptable product for its category.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The build quality is satisfactory.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is decent for its price range.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The item fits the purpose well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a neutral experience overall.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product functions without any issues.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The quality is moderate.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product does its job well enough.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a practical product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "There were no surprises with this product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s a reasonable product for everyday use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The performance is on par with its price.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It\u00e2\u20ac\u2122s an average product with no significant issues.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is straightforward.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "It meets the general expectations.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera quality is decent, but the battery drains too fast.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The material feels sturdy, though the color isn't as vibrant as shown.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The service was quick, but the product itself is underwhelming.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The build is solid, though the design feels outdated.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The packaging was neat, but the product inside had a minor defect.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound quality is clear, but the volume doesn't get very loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product works fine, though it doesn't stand out in any way.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The texture feels nice, but the scent is a bit overpowering.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The installation was easy, but the instructions were vague.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric is soft, but it shrinks slightly after washing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is sharp, but the touch sensitivity is inconsistent.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app interface is user-friendly, though it freezes occasionally.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product does what it claims, but it's not as durable as I'd hoped.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The customer service was helpful, though the issue took a while to resolve.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The price is reasonable, though the features are pretty basic.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The handle feels comfortable, but it's a little shorter than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The wheels roll smoothly, but the frame feels a bit flimsy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product shipped quickly, though the box was slightly damaged.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan is quiet, but it doesn't circulate air as effectively as I thought.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The paint finish is nice, but it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The water pressure is good, though the hose is a bit stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is responsive, but the keys are a bit too close together.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The stitching is well done, though the fabric wrinkles easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The light is bright, but the switch feels a bit cheap.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen resolution is high, but the refresh rate is lower than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The storage space is ample, though the organization isn't great.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The software runs smoothly, but the startup time is slow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The finish looks sleek, but it attracts fingerprints easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera is clear, but the zoom function is subpar.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The device is compact, though the battery life could be better.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cushion is soft, but the fabric attracts dust.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The speakers are decent, though the bass is lacking.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The strap is adjustable, but it feels a bit flimsy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is comfortable, but it doesn't recline as much as I'd like.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The microphone picks up sound well, though there's some background noise.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The glass is crystal clear, but it smudges easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The temperature control works well, though it takes time to heat up.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The table is sturdy, but the legs wobble slightly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The performance is acceptable, though it's slower with heavy apps.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The alarm is loud, but the snooze button is hard to press.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The buttons are responsive, though they feel a bit loose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product was easy to assemble, but a few parts were missing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mouse is comfortable, but the scroll wheel feels stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The glue holds well, though the drying time is longer than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen protector is clear, but it doesn't cover the edges perfectly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The scent is pleasant, but it fades quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The handle feels ergonomic, but it slips when wet.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The battery life is okay, but it drains fast when using certain features.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is durable, though it adds extra weight to the device.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The print quality is sharp, but the ink runs out quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The zipper works fine, though it gets stuck sometimes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The monitor is large, but the stand isn't very adjustable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The brightness is good, but it's hard to see in direct sunlight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The power cord is long, but it's a bit too thick.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The remote works fine, but it feels cheaply made.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The storage capacity is decent, but it's not expandable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app is intuitive, but it crashes occasionally.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The band is stylish, but it irritates my skin after long wear.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shelf is sturdy, but the finish is uneven.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The resolution is sharp, but the viewing angles are limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The door closes smoothly, but the handle feels loose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pillow is soft, but it loses shape after a while.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The finish is glossy, but it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The connectivity is good, though the range is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is stylish, but not as comfortable as it looks.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The knife cuts well, but it dulls quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is large, but the bezels are thick.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The charger works, but it gets hot after extended use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case protects well, but it's hard to take off.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are comfortable, though they run a bit small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is quiet, but the keys feel mushy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The graphics are clear, but the frame rate drops occasionally.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app is fast, but it takes up a lot of storage.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The color is vibrant, though it fades after washing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The stand is stable, but the height isn't adjustable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tool is sharp, but the handle is slippery.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is lightweight, but it doesn't protect from drops well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cable is durable, but it tangles easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is bright, but the touch response is slow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bag is spacious, but the zippers are tough to close.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is crisp, but the controls are hard to reach.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cover is soft, but it attracts lint easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The wireless connection is stable, though it drops occasionally.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The print is clear, but the ink smears sometimes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The padding is comfortable, but it compresses over time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan is powerful, though it's a bit noisy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera captures detail well, but it struggles in low light.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are lightweight, but they lack arch support.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mount is secure, but it's hard to adjust.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is responsive, but the resolution is lower than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The material is breathable, though it wrinkles easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The buttons are easy to press, but they feel cheap.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bag is durable, though the straps are uncomfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The frame is solid, but the joints are loose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound quality is fine, but the battery life is short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case looks good, but it's prone to scratching.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The finish is smooth, though it's slippery when wet.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lens is clear, but it fogs up easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The base is sturdy, but it's hard to move once set up.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The connection is fast, though it drops occasionally.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product fits well, but the seams are weak.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The strap is secure, though it's uncomfortable after long wear.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The controller is responsive, though the buttons feel stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen protector is easy to apply, but it leaves bubbles.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pen writes smoothly, though the ink runs out quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "Here are 300 more neutral sentences:",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The design is sleek, but the weight is a bit heavy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The performance is fine, but it heats up with prolonged use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is big, but the colors are not very vibrant.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app functions well, but it takes time to load.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The price is reasonable, though there are better options available.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The packaging was secure, but it was a little hard to open.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The installation process was straightforward, though it took some time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric feels soft, but it wrinkles easily after washing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product is as described, but it could be improved in some areas.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard lights up well, but it's not very bright in daylight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan is effective, but it's noisier than I expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera works fine, but the autofocus is slow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shipping was fast, but the box arrived with some damage.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case fits snugly, but it doesn't offer much drop protection.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound quality is decent, but the bass is a bit weak.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is clear, though the backlight is uneven.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app interface is simple, but some features are hard to find.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The texture of the material is smooth, but it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product performs as expected, though the battery life could be better.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The remote works, but it feels flimsy in hand.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is sturdy, but the cushion is too firm.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen size is good, but the resolution could be sharper.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is easy to type on, but the keys are a bit loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product arrived on time, but the packaging was a little loose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The connection is stable, but the range is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product feels durable, though the finish fades over time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app updates regularly, but new features are not always useful.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cable is long enough, but it tangles easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The stand is functional, though it's not very stable on uneven surfaces.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The battery charges quickly, but it doesn't last as long as advertised.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is protective, but it's bulky to carry around.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is easy to read, though it's not very bright in direct sunlight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lock mechanism works, but it feels a bit stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan is effective, but it takes a while to cool down the room.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mount is sturdy, but it's tricky to install.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The scent is pleasant, but it fades quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The wheels roll smoothly, though the overall build is light.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The handle feels comfortable, but it wears down over time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen quality is good, but it reflects light too much.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pen writes smoothly, but the ink smudges easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tool is functional, but it feels cheap in hand.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is sturdy, but it adds too much bulk to the phone.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is clear, but it's not very loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product does its job, though it lacks premium features.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The software works, but it's a bit slow at times.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric is breathable, though it doesn't hold its shape well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The device is easy to use, but the instructions are vague.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lens captures clear images, but struggles in low light.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cover fits well, but it picks up lint easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen brightness is good, though the contrast is a bit low.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cord is durable, though it's a bit short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The remote control is intuitive, but it has a limited range.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is lightweight, but it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is ergonomic, but it's not very adjustable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The texture feels nice, but it stains easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The battery life is okay, though it drains quickly with heavy use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app is straightforward, but it lacks customization options.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The design is attractive, though it's prone to fingerprints.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The build quality is decent, but the seams could be better.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The storage is adequate, but it fills up fast with larger files.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mouse is responsive, though the buttons feel stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The straps are adjustable, though they're a bit difficult to tighten.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The picture quality is fine, but the colors are slightly off.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is compact, but the keys are too close together.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is easy to open, though it's hard to close securely.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The monitor is bright, but the stand is not very stable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The charger works, though it gets hot after extended use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The zipper moves smoothly, but it gets stuck at times.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric feels durable, though it fades slightly after washing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The buttons are responsive, but they feel a bit too small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The water bottle is leak-proof, but it's difficult to clean.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mount holds steady, but it's difficult to adjust.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The finish is smooth, though it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The remote is responsive, but the buttons are hard to press.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard feels solid, though it's a bit noisy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is decent, but the volume range is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera captures good detail, though the zoom is weak.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The laptop runs quietly, though it heats up quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case fits snugly, though it's hard to remove.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The material feels strong, though it's not as flexible as I'd hoped.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The installation was easy, though the instructions were unclear.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is backlit, but the light is dim.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fit is comfortable, though the fabric feels thin.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The video quality is acceptable, though the sound is muffled.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is durable, but it adds weight to the device.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lens is clear, though it fogs up in humid conditions.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product works fine, but the build feels cheap.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The strap is comfortable, though it stretches over time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The light is bright, though it's not very energy efficient.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is sharp, though the colors are muted.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan cools well, though it uses a lot of energy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The scent is subtle, though it doesn't last long.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bag is spacious, though the zippers are difficult to close.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is balanced, though the bass is underwhelming.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product fits well, though the material feels stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The buttons are easy to press, though they feel loose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The finish is glossy, though it shows fingerprints easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cushion is soft, though it flattens quickly with use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is protective, though it's bulky to carry around.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is responsive, though it's not very durable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product works, though it's not as powerful as expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The strap is secure, though it irritates the skin.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric is comfortable, though it wrinkles easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The speaker is loud, though the sound is tinny at high volumes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The finish is smooth, though it's prone to chipping.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keys are responsive, though they feel a bit stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is clear, though it washes out in bright light.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera focuses well, though it struggles in low light.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The software runs smoothly, though it's resource-intensive.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cord is flexible, though it feels flimsy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The watch fits comfortably, though the band is hard to adjust.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The material is durable, though it's rough to the touch.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound quality is fine, though it's not immersive.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The finish is shiny, though it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The product functions as expected, though it's not user-friendly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The seat is comfortable, though the backrest is too firm.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen resolution is good, though the colors are dull.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The frame is sturdy, though it's difficult to assemble.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The wheels move smoothly, though they make noise on hard floors.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric feels nice, though it stretches with wear.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The handle is ergonomic, though it slips when wet.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The connection is fast, though it's not very stable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tool works well, though the handle feels cheap.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is durable, though it's not aesthetically pleasing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is large, though the bezels are thick.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The storage space is adequate, though the layout is confusing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The straps are adjustable, though they're hard to tighten.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The device charges quickly, though the cable is too short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The light is bright, though it's not evenly distributed.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app runs smoothly, though it's missing key features.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fit is snug, though the material is scratchy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The picture quality is good, though the frame rate drops at times.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is clear, though the volume is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The design is sleek, though it lacks durability.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pen writes smoothly, though the ink dries out quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is easy to type on, though the keys are loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric feels durable, though it's stiff at first.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is comfortable, though it's hard to adjust.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is lightweight, though it doesn't offer much protection.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The remote works well, though the range is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is bright, though it reflects light.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The water bottle is leak-proof, though it's hard to open.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app is easy to use, though it crashes occasionally.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bag is spacious, though the straps are uncomfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric is soft, though it fades after washing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is sharp, though the brightness is uneven.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pen is comfortable to hold, though the ink runs out quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case fits well, though it's difficult to remove.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The handle feels solid, though it's a bit short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mount is sturdy, though it's hard to adjust.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is balanced, though the highs are muted.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app functions well, though the interface is dated.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard feels nice, though the keys are too close together.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is clear, though it's hard to read in sunlight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case protects the device, though it adds bulk.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cord is long enough, though it's thick and heavy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The strap is comfortable, though it stretches over time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan works well, though it's noisy on high settings.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bag is durable, though the zippers are tough to use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mouse is responsive, though the buttons are stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cushion is soft, though it flattens over time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen protector is clear, though it leaves bubbles.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The buttons are easy to press, though they feel cheap.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app is user-friendly, though it's missing some features.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric feels nice, though it attracts lint.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera is sharp, though it struggles in low light.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is clear, though it's not very loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is sturdy, though it's bulky to carry.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The display is bright, though the colors are dull.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is responsive, though the keys are loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The remote is intuitive, though it feels fragile.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The light is bright, though it drains the battery quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pen writes well, though it smudges easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric is soft, though it wears down after washing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The app runs smoothly, though it's slow to load.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound is decent, though the bass is weak.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The screen is clear, though it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The buttons are responsive, though they feel loose.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fabric feels nice, though it wrinkles easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pen glides smoothly, though the ink runs out fast.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The case is protective, though it's hard to open.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "I can't decide if I like or hate this product.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "I wonder if the new phone from Motorola is good.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "Can anyone tell me where I can find a good Nokia phone?",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "Here are 200 more neutral sentences:",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The weather was mild, with occasional rain showers.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train arrived on time, but the platform was crowded.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She read a book while waiting for her appointment.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The meeting lasted for an hour, and then they had lunch.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The room was spacious, but the lighting was dim.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The flowers in the garden were blooming, adding color to the scene.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The road was clear, but the traffic lights were slow to change.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He walked his dog through the park, enjoying the quiet.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee shop was busy, but the line moved quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The movie started on time, but the sound was a bit low.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The computer ran smoothly after the update was installed.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She organized her desk before starting her homework.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The new phone was lightweight, but the battery drained quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The park was full of people, but it was still peaceful.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He studied for his exam, taking breaks in between.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The window provided a good view of the city skyline.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The class went over the material, and then there was a quiz.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The water in the pool was cool, perfect for a hot day.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The curtains were drawn, making the room feel cozy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car was washed, but it still had a few scratches.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The presentation went well, but there were a few technical glitches.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She cooked dinner, trying out a new recipe she found online.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The park bench was wet from the rain, but he sat down anyway.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He finished his workout and then stretched for a few minutes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The television was on, but no one was really watching.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bakery had fresh bread, but the shelves were almost empty.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The day was long, but the evening was quiet and calm.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She wrote in her journal before going to bed.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bus ride was smooth, and the driver was friendly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sunset was beautiful, casting a warm glow over the city.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He went for a run in the morning, enjoying the cool air.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bookstore was quiet, with only a few people browsing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The dinner party was fun, though a bit too loud at times.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The leaves were falling, signaling the start of autumn.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone rang, but it was just a wrong number.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He cleaned the house, starting with the kitchen.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The meeting was productive, but it went a little longer than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee tasted good, but it was a little too hot.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The playground was full of children playing on the swings.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The computer was old, but it still worked well enough.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She bought a new notebook and pens for school.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sky was clear, perfect for stargazing later that night.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train station was quiet, with only a few passengers.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The ice cream shop had a new flavor, which everyone wanted to try.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He read the news online while sipping his morning coffee.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes were comfortable, but a little too tight around the toes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The airport was busy, but the flight departed on time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The library was peaceful, with soft music playing in the background.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The grocery store was crowded, but the checkout line moved quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The rain started falling just as they reached the car.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The restaurant was busy, but they found a table quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The road trip was long, but the scenery was worth it.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The apartment was clean, but it felt a bit too small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He watered the plants, making sure they got enough sunlight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The schedule was tight, but they managed to finish everything.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The school was decorated for the upcoming holiday.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The painting hung crooked on the wall, but no one seemed to notice.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The traffic was heavy, but they arrived on time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The store was having a sale, so she bought a few items.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cat slept on the windowsill, basking in the sunlight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The game was close, but no one cared much about the outcome. The train ride was peaceful, with no delays or disruptions.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tree outside the window swayed gently in the breeze.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He folded the laundry while watching television.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The presentation was informative, though a bit dry.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The streetlights flickered, but they didn't go out completely.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She packed her bag for the trip, double-checking her list.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The temperature dropped in the evening, making it feel cooler.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The movie theater was nearly empty, but the film was good.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He cooked breakfast, making eggs and toast.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The clouds were gray, but it didn't look like it would rain.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bookstore had a special section for local authors.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The park was quiet, with only the sound of birds chirping.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The grass was freshly cut, giving off a clean scent.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train doors opened, and passengers hurried inside.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The wind was strong, but the kite flew perfectly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The recipe was easy to follow, but it took longer than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The hike was tiring, but the view from the top was worth it.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She wrote a letter, but never got around to sending it.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car ride was long, but they passed the time by listening to music.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The office was busy, but everyone worked quietly. The sun was setting, casting long shadows across the yard.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The beach was empty, with only a few seagulls in the distance.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The music was loud, but not loud enough to disturb the neighbors.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The elevator ride was quick, but it felt like forever.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The flowers smelled sweet, filling the room with fragrance. The suitcase was packed, ready for the trip.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sky turned pink as the sun disappeared below the horizon.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The rain stopped just as they stepped outside.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cake looked delicious, but she was too full to eat it. The museum was quiet, with only a few visitors.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee shop was cozy, with soft lighting and warm colors.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The day started early, but it felt like it would never end.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The door creaked open, revealing a dimly lit room.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tree branches swayed in the wind, casting shadows on the ground.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The library was nearly empty, perfect for studying.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone buzzed, signaling a new message.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The room was cold, but the fireplace kept it warm.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The street was lined with trees, their leaves rustling in the wind.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The theater was old, but the seats were comfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sidewalk was wet from the recent rain.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book was thick, but the pages turned easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The wind howled, but the windows remained shut tight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The crowd cheered, though the game was almost over.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The house was quiet, with everyone fast asleep.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair was worn, but still sturdy enough to sit on.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The plane flew overhead, leaving a trail in the sky.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The alarm went off, but he hit snooze one more time.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The park was green, with trees shading the benches.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bag was heavy, but she carried it without complaint.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sun rose, casting a golden glow over the city.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fence was old, but it still stood strong.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The light flickered, but it stayed on.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The snow fell softly, blanketing the ground in white.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The oven beeped, signaling the cookies were done.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The curtains fluttered in the breeze, letting in the sunlight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The radio played softly in the background.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sidewalk was crowded, but people moved along briskly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The water was clear, reflecting the blue sky above.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The garden was full of flowers, their colors bright against the green grass.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The city was alive with lights, even late at night.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book sat on the shelf, waiting to be read.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The stove was hot, but he carefully stirred the soup.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The dog barked at the mailman, but wagged its tail.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The windows were large, offering a view of the ocean.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The clock ticked slowly, counting down the minutes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car was parked in the driveway, ready for the trip.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The storm clouds gathered, but the rain held off.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The kitchen smelled of fresh bread, warm and inviting.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The light turned green, and the cars started moving again.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The hills in the distance were covered with fog, making them look mysterious.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train whistle blew, signaling its arrival at the station.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The smell of fresh paint filled the room.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lights of the city twinkled in the distance, casting a glow over the skyline.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sky was overcast, but it didn\u00e2\u20ac\u2122t rain.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She packed her lunch before heading to work.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The meeting started promptly at 9 AM.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bus was on time, as usual.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He watered the plants every morning.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The road was bumpy, but the car handled it well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The door creaked as it opened.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The weather was neither too hot nor too cold.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She finished her book and placed it on the shelf.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The dog wagged its tail but didn\u00e2\u20ac\u2122t bark.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The store was crowded, but she found everything she needed.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pen ran out of ink just as he finished the letter.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The water was lukewarm, not too hot.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He wore a jacket because the evening was cool.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The garden was well-maintained with fresh flowers.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train ride was smooth, with no delays.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The alarm clock buzzed, waking her up.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee was neither bitter nor sweet.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sky cleared up later in the day.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The elevator was slow, but it eventually arrived.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The couch was comfortable enough for an afternoon nap.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The trees swayed gently in the wind.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The movie was neither exciting nor boring.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "She left her keys on the kitchen counter.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The river flowed steadily, without any rapids.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The streetlights flickered but stayed on.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The traffic moved at a moderate pace.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "He adjusted his glasses and continued reading.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The radio played soft music in the background.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book had an interesting cover but was hard to follow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket was light, perfect for spring.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The floor was cold beneath her feet.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bird sat quietly on the fence.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The schedule was full, but manageable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The window was open, letting in a soft breeze.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shopping bag was light, only a few items inside.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The clock ticked rhythmically on the wall.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sun was hidden behind a cloud for most of the day.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sound of footsteps echoed in the hallway.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The rain fell steadily, but it wasn\u00e2\u20ac\u2122t heavy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The table was set for dinner, though it wasn\u00e2\u20ac\u2122t fancy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The flight was on time, and the landing was smooth.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The leaves rustled as the wind passed through the trees.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car started on the first try.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The notebook was filled with neat handwriting.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair creaked slightly when he sat down.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The soup simmered on the stove, filling the kitchen with its aroma.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The doorbell rang, but no one was there.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lights were dimmed, creating a cozy atmosphere.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The room was quiet, except for the ticking clock.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes were comfortable, but not particularly stylish.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The road was long and straight, with few turns.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bridge spanned a wide river, offering a good view.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The breeze was refreshing after a warm afternoon.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The library was nearly empty, just a few people reading.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone buzzed, but it was only a reminder.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bookshelf was organized alphabetically.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sun peeked out from behind the clouds.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The beach was empty, with only the sound of waves.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket had deep pockets, perfect for holding small items.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The garden was neat, though the grass needed trimming.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cat curled up on the chair, purring softly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The traffic light turned green, and cars began moving.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train tracks stretched off into the distance.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The clouds were thick, but no rain fell.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lake was calm, reflecting the mountains nearby.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The curtains fluttered gently in the wind.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The floorboards creaked as he walked down the hall.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bus was half-full, with plenty of seats available.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fridge hummed quietly in the background.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The night sky was clear, with stars twinkling above.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fountain gurgled softly in the garden.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The paint on the wall was fresh, giving the room a clean look.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The candle flickered, casting shadows on the wall.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The store shelves were well-stocked with groceries.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The hill was steep, but the climb was manageable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The curtains were drawn to keep the sunlight out.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The street was quiet, with only a few cars passing by.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bicycle chain needed oil, but it still worked.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fence needed a fresh coat of paint.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The house was old but well-maintained.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The river was wide, but the current was slow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The windows were clean, offering a clear view outside.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The hallway was long, with doors on either side.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The umbrella shielded him from the light rain.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air conditioner hummed softly, cooling the room.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sidewalk was cracked in places, but still usable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The blanket was warm, perfect for a chilly evening.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The clock on the wall was slightly fast.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pencil broke, but she had a spare.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The ice cubes clinked in the glass as she sipped her drink.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train station was busy, with people hurrying to catch their rides.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book was heavy, but the content was interesting.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mailbox was full, mostly with flyers and ads.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bridge swayed slightly in the wind.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The forest was dense, with tall trees on all sides.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The door handle was loose but still functional.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The room was spacious, though sparsely furnished.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sun set slowly, casting a warm glow over the landscape.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The oven beeped, signaling the cookies were ready.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan whirred quietly, providing a gentle breeze.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket was waterproof, perfect for rainy weather.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The street was lined with tall trees, their leaves rustling in the breeze.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The table had a slight wobble but was still sturdy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The road curved around the mountain, offering a scenic view.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The classroom was brightly lit, with large windows.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The computer booted up quickly, ready for use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The window was slightly ajar, letting in fresh air.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The boat rocked gently on the waves.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The notebook was full of doodles and notes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The breeze carried the scent of fresh flowers.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sky was painted with shades of pink and orange as the sun set.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The garden was filled with blooming flowers of various colors.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The radio crackled with static before the music played.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The carpet was soft underfoot.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The rain fell steadily, but the storm never came.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The floor was swept clean, with no dust in sight.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pillow was fluffy, perfect for a good night's sleep.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The traffic light turned red, and the cars came to a halt.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The stream bubbled as it flowed over the rocks.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The backpack was light, with only a few items inside.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The street was well-lit, with lampposts on every corner.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The wall was painted a soft shade of blue.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The newspaper was folded neatly on the table.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The kitchen smelled of fresh bread baking in the oven.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air was crisp, signaling the start of autumn.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The photograph was framed and hung on the wall.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The boat docked smoothly at the pier.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The street was quiet, with only the occasional car passing by.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The suitcase was packed and ready for the trip.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair was old, but still sturdy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The clock chimed, marking the hour.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The rain drizzled softly on the rooftop.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sun shone brightly through the window.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cake was cooling on the counter, freshly baked.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The pencil was dull, but it still wrote smoothly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The street was lined with parked cars.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The kettle whistled, signaling the water was boiling.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The radio played softly in the background.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The beach was empty, with only a few seagulls in the distance.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The cat meowed softly, asking for food.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair was positioned near the window for the best view.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The mountain loomed large in the distance.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee maker gurgled as it brewed a fresh pot.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The curtains were drawn to keep the room cool.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The rain pattered softly against the window.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The breeze was cool, making the evening walk enjoyable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train rolled smoothly along the tracks.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bird sang a cheerful song from its perch.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The clock ticked quietly in the background.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The notebook was filled with pages of notes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lake was still, reflecting the trees around it.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car parked easily in the empty lot.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sky was a soft shade of gray, with clouds covering the sun.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lights flickered but stayed on.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The sidewalk was lined with fallen leaves.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The radio host spoke softly, introducing the next song.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The blanket was soft, perfect for curling up on the couch.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee shop was busy, with customers coming and going.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bus stopped at every corner, picking up passengers.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The train was delayed by a few minutes but soon arrived.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air was fresh, with the scent of rain lingering.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The computer screen glowed softly in the dim room.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The leaves crunched underfoot as they walked through the park.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The water in the pool was calm, with no one swimming.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The table was set for dinner, though no one had arrived yet.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The dog lay quietly at her feet, watching the world outside.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "Here are 200 neutral reviews, each on a new line:",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone has a decent camera, but the battery life is average.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car runs smoothly, but the interior design could be improved.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The restaurant had good service, but the food was just okay.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The laptop is fast, but the screen resolution is not the best.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The headphones are comfortable, but the sound quality could be better.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The movie was visually stunning, but the plot was predictable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are durable, but they aren't the most stylish.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book is well-written, but the pacing is a bit slow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The game has good graphics, but the gameplay is repetitive.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tablet is lightweight, but the battery drains quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is responsive, but the keys are a bit too stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The hotel is clean, but the location is not very convenient.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket is warm, but it's a bit bulky for daily wear.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee shop is cozy, but the drink options are limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The washing machine works well, but it's quite noisy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The vacuum cleaner has strong suction, but it's heavy to carry.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The TV has a sharp display, but the remote is hard to use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The desk is sturdy, but the assembly instructions were unclear.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The smart speaker responds quickly, but the sound isn't very loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera takes clear photos, but it's difficult to navigate the settings.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The backpack is spacious, but the straps are uncomfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The smartwatch tracks fitness well, but the battery life is short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air conditioner cools the room, but it's a bit loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The microwave heats food evenly, but the buttons are not intuitive.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The refrigerator is energy efficient, but the freezer space is small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The bicycle rides smoothly, but the seat isn't very comfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The printer produces clear prints, but it uses a lot of ink.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The headphones have good bass, but the treble is lacking.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone case is durable, but it's a bit bulky.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes fit well, but they took a while to break in.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book is interesting, but it\u00e2\u20ac\u2122s not something I would read again.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The restaurant has a nice ambiance, but the food portions are small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The hotel room is spacious, but the bed isn't very comfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tablet runs apps smoothly, but the storage is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard lights up, but the keys are too loud when typing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The laptop is lightweight, but it gets hot after prolonged use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The washing machine cleans well, but the cycles are too long.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket is waterproof, but it's not very breathable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is ergonomic, but the material feels cheap.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The blender works well, but it's hard to clean.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The speaker is portable, but the battery life isn't great.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The smartphone has a sleek design, but the camera quality is average.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The monitor has a bright display, but the stand is wobbly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air fryer cooks food quickly, but the basket is small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are comfortable, but they scuff easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee maker brews quickly, but the coffee isn't very hot.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The desk has a modern design, but the drawers stick.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car's fuel efficiency is good, but the acceleration is slow.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The earbuds have good noise cancellation, but they don't fit well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The suitcase is lightweight, but the zippers feel flimsy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The smartwatch is easy to use, but it doesn't have many apps.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan cools the room, but it's louder than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lamp is bright, but the base isn't very sturdy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera lens is sharp, but it\u00e2\u20ac\u2122s hard to attach filters.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The backpack is water-resistant, but the compartments are small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The vacuum cleaner picks up dirt well, but the cord is too short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The headphones have clear sound, but they're not very comfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The oven heats up quickly, but the controls are confusing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The rug is soft, but it's hard to vacuum.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone charges quickly, but the battery doesn't last long.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee tastes fine, but it's not very strong.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The restaurant has fast service, but the food lacks flavor.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The monitor is large, but the resolution isn't very sharp.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone has a sleek design, but the screen smudges easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are stylish, but they're not very comfortable for long walks.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book has a good plot, but the characters are underdeveloped.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The TV has great picture quality, but the sound isn't very good.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tablet is responsive, but the battery life is short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The movie had good acting, but the storyline was weak.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air conditioner cools well, but it's difficult to install.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The headphones are durable, but the cord tangles easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The washing machine has a large capacity, but it's loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lamp is stylish, but the light is too dim for reading.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fridge keeps food cold, but the shelves are hard to adjust.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The speaker has good sound quality, but it's too bulky to carry around.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is comfortable, but it squeaks when you move.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The laptop is powerful, but the battery drains quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The microwave works well, but it's smaller than expected.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone's screen is clear, but it scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are breathable, but they run a bit small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The desk is spacious, but the surface scratches easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is compact, but the keys are too close together.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The game is fun, but the graphics are outdated.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The smart speaker understands commands, but the sound isn't very loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car has good handling, but the seats aren't comfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book is well-researched, but the writing style is dry.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket is lightweight, but it doesn't provide much warmth.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee maker is easy to use, but the coffee isn't very hot.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is adjustable, but the cushion is too firm.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The headphones have a strong bass, but the mids are weak.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tablet is portable, but it lags when running multiple apps.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The suitcase has a lot of space, but the wheels don't roll smoothly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The printer prints quickly, but the paper jams frequently.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone's battery charges fast, but it drains just as quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air purifier works quietly, but the filters are expensive to replace.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan is powerful, but it's too loud for sleeping.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The desk is sturdy, but the finish chips easily.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lamp has a modern design, but the light flickers sometimes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The vacuum cleaner is effective, but it's hard to maneuver.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The blender blends well, but it's very loud.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The washing machine is efficient, but it shakes during the spin cycle.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket is stylish, but it doesn't have enough pockets.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone has good features, but the user interface is confusing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The monitor has vibrant colors, but it has a narrow viewing angle.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are lightweight, but they lack arch support.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book has a unique premise, but it's slow-paced.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The movie was well-directed, but the dialogue was bland.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair is sturdy, but it\u00e2\u20ac\u2122s not very comfortable for long periods.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera takes great photos, but the battery life is short.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tablet is easy to carry, but the screen isn't very bright.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The backpack has a lot of compartments, but the straps are uncomfortable.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard types smoothly, but the backlight is uneven.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The TV has a clear display, but the remote control is hard to use.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The smartwatch tracks steps accurately, but the display is too small.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The headphones block out noise, but they feel heavy after a while.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The suitcase is durable, but the handle is wobbly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car has a smooth ride, but the fuel economy could be better.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The air fryer is convenient, but it\u00e2\u20ac\u2122s hard to clean.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone has a good camera, but the storage space is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The washing machine is quiet, but the settings are confusing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book is informative, but it's a bit repetitive.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The restaurant has friendly staff, but the menu is limited.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The hotel room was clean, but the bed was too firm.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The TV has good sound quality, but the picture isn't very sharp.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The jacket is water-resistant, but it feels stiff.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The coffee maker is compact, but it takes a long time to brew.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The tablet has a fast processor, but the screen resolution is low.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The vacuum picks up dust well, but the attachments are hard to switch.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The desk is large, but the drawers don\u00e2\u20ac\u2122t slide smoothly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone works well, but the battery doesn't last long.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The book had an interesting concept, but the ending was rushed.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The keyboard is quiet, but the keys feel flimsy.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The microwave heats food evenly, but the door is hard to open.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The shoes are affordable, but they wear out quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The movie had a strong start, but the ending was disappointing.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The camera is easy to use, but the zoom function isn't great.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The chair has good lumbar support, but the seat is too hard.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The car is reliable, but it lacks advanced features.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The fan cools the room well, but it's too noisy for sleeping.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The lamp provides good light, but the design is outdated.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The washing machine has a quick cycle, but it doesn\u00e2\u20ac\u2122t clean heavy stains well.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The TV has a crisp display, but the sound quality is poor.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The phone is easy to navigate, but it runs out of storage quickly.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "The backpack is durable, but the zippers stick.",
+        "sentiment": "neutral"
+    }
+]
