@@ -61,4 +61,4 @@ new_sentence = "The battery life is poor and bad, but the display is superb and 
 print(predict_sentiment(new_sentence))
 
 
-# model.save('SentiToolKit.h5')
+model.save('SentiToolKit.h5')
