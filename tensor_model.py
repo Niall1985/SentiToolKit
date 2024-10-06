@@ -26,10 +26,18 @@ tokenizer = Tokenizer(num_words = 5000)
 tokenizer.fit_on_texts(reviews)
 sequences = tokenizer.texts_to_sequences(reviews)
 
+
 maxlen = 100
 x = pad_sequences(sequences, maxlen=maxlen)
 y_one_hot = to_categorical(sentiments, num_classes=3)
 x_train, x_test, y_train, y_test = train_test_split(x, y_one_hot, test_size=0.2, random_state=42)
+
+train_dataset = tf.data.Dataset.from_tensor_slices((x_train, y_train))
+test_dataset = tf.data.Dataset.from_tensor_slices((x_test, y_test))
+train_dataset = train_dataset.shuffle(buffer_size=len(x_train))
+batch_size = 64
+train_dataset = train_dataset.batch(batch_size)
+test_dataset = test_dataset.batch(batch_size)
 
 model = Sequential()
 model.add(Input(shape=(maxlen,))) 
@@ -61,4 +69,4 @@ new_sentence = "The battery life is poor and bad, but the display is superb and 
 print(predict_sentiment(new_sentence))
 
 
-model.save('SentiToolKit.h5')
+# model.save('SentiToolKit.h5')
