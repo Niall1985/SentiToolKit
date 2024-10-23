@@ -1,0 +1,2 @@
+[console_scripts]
+sentitoolkit = senti_toolkit:main
