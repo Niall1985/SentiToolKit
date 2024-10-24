@@ -1,6 +1,6 @@
 from sentitoolkit.Main_tensor_model import SentiToolKit
 
 model = SentiToolKit()
-rev = "The battery life is really poor, i don't like it"
+rev = "I don't like this product"
 
 print(model.__call__(rev))

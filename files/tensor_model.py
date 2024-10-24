@@ -14,7 +14,7 @@ import pickle
 
 load_dotenv()
 path_to_training_data = os.getenv('path_to_training_data')
-with open(path_to_training_data, 'r') as f:
+with open(path_to_training_data, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 df = pd.DataFrame(data)
@@ -50,7 +50,7 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 
 model.summary()
 
-history = model.fit(x_train, y_train, epochs=10, batch_size=64,validation_split=0.2)
+history = model.fit(x_train, y_train, epochs=100, batch_size=64,validation_split=0.2)
 
 loss, accuracy = model.evaluate(x_test, y_test)
 print(f'Test Accuracy: {accuracy*100:.2f}%')
