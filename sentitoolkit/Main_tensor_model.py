@@ -43,21 +43,21 @@ class SentiToolKit:
         return padded
 
     def __call__(self, sentence):
-        """
-        Make a prediction for the given sentence by passing it through the model.
-        """
         prepared_text = self.prepare_text(sentence)
-        
         prediction = self.model.predict(prepared_text)
         predicted_class = prediction.argmax(axis=-1)
+        predicted_probs = prediction[0]
 
-        
-        if predicted_class == 2:
+        print("Predicted probabilities:", prediction)
+        if predicted_probs[2] > 0.95:  
             return 'Positive'
-        elif predicted_class == 1:
+        elif predicted_probs[1] > 0.5:
             return 'Neutral'
-        else:
+        elif predicted_probs[0] > 0.5:  
             return 'Negative'
+        else:
+            return 'Uncertain'  
+       
 
 
 
