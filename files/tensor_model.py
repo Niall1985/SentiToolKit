@@ -50,7 +50,7 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 
 model.summary()
 
-history = model.fit(x_train, y_train, epochs=100, batch_size=64,validation_split=0.2)
+history = model.fit(x_train, y_train, epochs=200, batch_size=64,validation_split=0.2)
 
 loss, accuracy = model.evaluate(x_test, y_test)
 print(f'Test Accuracy: {accuracy*100:.2f}%')
