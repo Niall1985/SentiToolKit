@@ -9,6 +9,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding, LSTM, Dense, Dropout, Input
 from tensorflow.keras.utils import to_categorical
+import pickle
 
 
 load_dotenv()
@@ -65,8 +66,14 @@ def predict_sentiment(sentence):
         return 'Neutral'
     else:
         return 'Negative'
+    
+with open('tokenizer.pkl', 'wb') as f:
+    pickle.dump(tokenizer, f)
+print("Tokenizer saved successfully as 'tokenizer.pkl'.")
+
+
+model.save('SentiToolKit.keras')
 new_sentence = input("Enter the review which you wish to analyze: ")
 print(predict_sentiment(new_sentence))
 
 
-model.save('SentiToolKit.keras')

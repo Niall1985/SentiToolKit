@@ -1,97 +1,99 @@
-# SentiToolKit
 
-## TensorFlow Model
-This repository contains a TensorFlow-based deep learning model for sentiment analysis. The model is designed to classify text into three categories: Positive, Negative, and Neutral sentiments based on the input data. It uses LSTM (Long Short-Term Memory) layers to capture the context of the input text and make predictions.
+# SentiToolKit &nbsp; ![version](https://img.shields.io/badge/version-0.1.0-blue) ![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen) ![License](https://img.shields.io/badge/license-GNU LICENSE-yellow)
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Training Data](#training-data)
-- [Evaluation](#evaluation)
-- [Improvements](#improvements)
-- [License](#license)
+SentiToolKit is a simple sentiment analysis library that leverages LSTM (Long Short-Term Memory) neural networks for predicting the sentiment of a given text. This toolkit provides a streamlined interface for text preprocessing, model loading, and prediction.
 
-## Features
-- Text preprocessing: tokenization, padding, and sequence conversion.
-- LSTM-based architecture to capture temporal dependencies in text data.
-- Multi-class classification (Positive, Negative, Neutral).
-- Adjustable training parameters: epochs, batch size, validation split.
-  
-## Installation
+## ✨ Features
 
-### Prerequisites
-- Python 3.7 or higher
-- TensorFlow 2.x
-- Keras
-- Pandas
-- NumPy
-- dotenv (for environment variable management)
+- **Pre-trained Model**: Uses a pre-trained LSTM model for sentiment analysis.
+- **Tokenization Support**: Handles text tokenization with a customizable vocabulary size.
+- **Sentiment Prediction**: Predicts whether a text is `Positive`, `Neutral`, or `Negative`.
+- **Easy to Use**: Minimal setup required to get predictions.
+- **Customizable**: You can use your own tokenizer and model for fine-tuning.
 
-### Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Niall1985/SentiToolKit.git
-   cd SentiToolKit
-   ```
+## 📦 Installation
 
-2. Set up environment variables for the path to your training data:
-   - Create a `.env` file in the root directory and add the following line:
-     ```
-     path_to_training_data="path_to_your_json_data"
-     ```
+You can install the `SentiToolKit` package via pip:
 
-## Usage
+```bash
+pip install SentiToolKit
+```
 
-### Training the Model
-1. Ensure that your training data is in JSON format with two columns: "review" (the text) and "sentiment" (positive, negative, neutral).
-2. Run the script to train the model:
-   ```bash
-   python tensor_model.py
-   ```
-   The model will automatically split your data into training and testing sets, train the model, and display accuracy metrics.
+Alternatively, if you'd like to build from source:
 
-### Predicting Sentiment
-You can use the model to predict sentiment for a new sentence:
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/SentiToolKit.git
+    ```
+
+2. Navigate to the project directory and install the package:
+
+    ```bash
+    cd SentiToolKit
+    pip install .
+    ```
+
+## 🚀 Quickstart
+
+To get started with SentiToolKit, follow the example below:
 
 ```python
-new_sentence = "The battery life is poor and bad, but the display is superb and the keys are smooth"
-print(predict_sentiment(new_sentence))
+from SentiToolKit import SentiToolKit
+
+# Initialize the sentiment toolkit with pre-trained model and tokenizer
+senti_toolkit = SentiToolKit(model_path='SentiToolKit.keras', tokenizer_path='tokenizer.pkl')
+
+# Predict the sentiment of a sentence
+result = senti_toolkit("I love using SentiToolKit for sentiment analysis!")
+print(f"Predicted sentiment: {result}")  # Output: Positive
 ```
 
-## Model Architecture
+## 🧰 Usage
 
-- **Embedding Layer**: Maps input words into dense vectors of fixed size.
-- **LSTM Layer**: Captures sequential dependencies in the text.
-- **Dense Layer with Softmax Activation**: Outputs three probabilities for each class (Positive, Negative, Neutral).
+1. **Loading the Pre-trained Model**: The toolkit loads a pre-trained LSTM model from the provided `.keras` file.
+2. **Text Tokenization**: The input text is tokenized and padded using the stored tokenizer from `tokenizer.pkl`.
+3. **Sentiment Prediction**: Predicts the sentiment based on the input text:
+   - `Positive`
+   - `Neutral`
+   - `Negative`
 
-### Code Snippet:
+## 📁 Project Structure
 
-```python
-model = Sequential()
-model.add(Embedding(input_dim=5000, output_dim=128, input_length=100))
-model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2))
-model.add(Dense(3, activation='softmax'))  
-
-model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+```
+SentiToolKit/
+├── SentiToolKit/
+│   ├── __init__.py
+│   ├── toolkit.py
+├── README.md
+├── LICENSE
+├── setup.py
+├── requirements.txt
+├── tokenizer.pkl
+├── SentiToolKit.keras
 ```
 
-## Training Data
-- The dataset used for training consists of labeled text reviews and their corresponding sentiments. The sentiments are categorized into three classes: Positive, Negative, and Neutral.
+## 📄 License
 
-### Data Preprocessing:
-- Convert the text to lowercase.
-- Remove special characters and stop words.
-- Tokenize the sentences and pad sequences to a fixed length (100 words).
-  
-## Evaluation
-After training, the model will evaluate the performance on the test set. The evaluation includes accuracy and loss metrics.
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3,. See the [LICENSE](LICENSE) file for details.
 
-### Example Output:
-```
-Test Accuracy: 87.55%
-```
+## 💡 Future Improvements
 
-## License
-This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 - see the [LICENSE](LICENSE) file for details.
+- Add support for additional languages.
+- Fine-tune the pre-trained model for domain-specific tasks.
+- Implement an API for real-time sentiment analysis.
+
+## 👥 Contributing
+
+Contributions are welcome! If you’d like to contribute to SentiToolKit, feel free to fork the repository and submit a pull request.
+
+1. Fork the repo.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+## 📬 Contact
+
+- Author: [Niall Dcunha](mailto:dcunhaniall@gmail.com)
+- GitHub: [https://github.com/Niall1985](https://github.com/Niall1985)
