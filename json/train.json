@@ -19844,6 +19844,14 @@
         "sentiment": "negative"
     },
     {
+        "review": "this product is beyond my liking",
+        "sentiment": "negative"
+    },
+    {
+        "review": "i dislike every aspect of this product",
+        "sentiment":"negative"
+    },
+    {
         "review": "funnily",
         "sentiment": "negative"
     },
