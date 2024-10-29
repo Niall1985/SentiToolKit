@@ -4,6 +4,62 @@
         "sentiment": "positive"
     },
     {
+        "review": "if you love racing games, you're going to love this game. great cars and wonderful graphics.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i love the graphics, gameplay, and the cars but it takes too long to level up a car and gets boring sometimes.",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "love this game a lot. best racing game i've ever played and the graphics are phenomenal.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "it's a great game. the graphics and gameplay are amazing. however, there are a few bugs that need to be fixed. the developers are constantly updating and improving the game, which i appreciate.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "great graphics, fun gameplay, and a wide variety of cars. the multiplayer mode is also a lot of fun. highly recommend!",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i've been playing for a while and i really enjoy the game. the graphics are stunning, and the controls are smooth. the events are exciting and keep me engaged.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "asphalt is a great racing game with excellent graphics and fun gameplay. i love the different modes and the challenges they offer.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i am really enjoying this game! the graphics are incredible, and the cars are amazing. it's a blast to race with friends online.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "awesome game! the graphics are top-notch and the gameplay is thrilling. i can't get enough of racing with my friends.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "this is by far the best racing game i've played on mobile. the graphics are stunning, and the controls are easy to learn. the multiplayer mode is also fantastic.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "absolutely love this game! the graphics are amazing, and the car selection is fantastic. the gameplay is smooth and enjoyable.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "great game overall! the graphics are beautiful, and the gameplay is exciting. i would recommend this game to anyone who loves racing.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "fantastic racing game! the graphics are stunning and the gameplay is addictive. i can't stop playing!",
+        "sentiment": "positive"
+    },
+    {
+        "review": "great products",
+        "sentiment": "positive"
+    },
+    {
         "review": "abounds",
         "sentiment": "positive"
     },
@@ -2285,6 +2341,10 @@
     },
     {
         "review": "enthuse",
+        "sentiment": "positive"
+    },
+    {
+        "review": "great service and fast shipping",
         "sentiment": "positive"
     },
     {
@@ -11319,166 +11379,7 @@
         "review": "iâ€™m excited every time i use it.",
         "sentiment": "positive"
     },
-    {
-        "review": "itâ€™s the best product iâ€™ve tried in this category.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product blends form and function beautifully.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product works better than expected.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™m very happy with the purchase.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "this item is worth every dollar spent.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product quality is truly impressive.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "itâ€™s super easy to use and highly effective.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i can see myself using this for a long time.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product fits all my requirements.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™m in love with the sleek design.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "it was packaged very securely and professionally.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product performs wonderfully in every aspect.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™ve received a lot of compliments on this product.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the customer support was friendly and responsive.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "itâ€™s the best product iâ€™ve come across this year.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product arrived even earlier than expected.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product is exactly as described, if not better.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i would happily purchase this again.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "this brand has never disappointed me.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "itâ€™s exactly what i needed for my project.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product is a fantastic solution to my problem.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the attention to detail is incredible.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i couldnâ€™t ask for anything more from this product.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™m impressed with the innovation behind this product.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "it works seamlessly without any issues.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product is well worth the hype.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "itâ€™s very easy to install and set up.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "this is a must-have for anyone in need of quality.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "it has exceeded my expectations in every way.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™m really glad i gave this product a try.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™ve been using it non-stop since i received it.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the durability of this product is remarkable.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "itâ€™s very comfortable to hold and use.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™m absolutely satisfied with this purchase.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product is a step above the rest.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "itâ€™s the perfect solution to my problem.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i will definitely be back to buy more.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the productâ€™s functionality is flawless.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "iâ€™m very impressed with the overall quality.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the product adds great value to my daily routine.",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "itâ€™s a very well-thought-out design.",
         "sentiment": "positive"
@@ -40883,62 +40784,7 @@
         "review": "this game is not pay to win. getting cars might be a pain, but if you put in your time, you will surely have a blast. if you buy something, be prepared to lose it, the game is very unstable and if you buy something you may lose it without a trace.",
         "sentiment": "neutral"
     },
-    {
-        "review": "if you love racing games, you're going to love this game. great cars and wonderful graphics.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i love the graphics, gameplay, and the cars but it takes too long to level up a car and gets boring sometimes.",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "love this game a lot. best racing game i've ever played and the graphics are phenomenal.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "it's a great game. the graphics and gameplay are amazing. however, there are a few bugs that need to be fixed. the developers are constantly updating and improving the game, which i appreciate.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great graphics, fun gameplay, and a wide variety of cars. the multiplayer mode is also a lot of fun. highly recommend!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i've been playing for a while and i really enjoy the game. the graphics are stunning, and the controls are smooth. the events are exciting and keep me engaged.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "asphalt is a great racing game with excellent graphics and fun gameplay. i love the different modes and the challenges they offer.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i am really enjoying this game! the graphics are incredible, and the cars are amazing. it's a blast to race with friends online.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "awesome game! the graphics are top-notch and the gameplay is thrilling. i can't get enough of racing with my friends.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "this is by far the best racing game i've played on mobile. the graphics are stunning, and the controls are easy to learn. the multiplayer mode is also fantastic.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "absolutely love this game! the graphics are amazing, and the car selection is fantastic. the gameplay is smooth and enjoyable.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great game overall! the graphics are beautiful, and the gameplay is exciting. i would recommend this game to anyone who loves racing.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "fantastic racing game! the graphics are stunning and the gameplay is addictive. i can't stop playing!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great products",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "samsung watch6 abysmal battery life",
         "sentiment": "neutral"
@@ -41439,10 +41285,7 @@
         "review": "i had my washer and dryer since 2017…",
         "sentiment": "neutral"
     },
-    {
-        "review": "great service and fast shipping",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "what a nightmare samsung has become!!",
         "sentiment": "neutral"
@@ -53737,6 +53580,166 @@
     },
     {
         "review": "professional and friendly service - excellent.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "itâ€™s the best product iâ€™ve tried in this category.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product blends form and function beautifully.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product works better than expected.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "iâ€™m very happy with the purchase.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "this item is worth every dollar spent.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product quality is truly impressive.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "itâ€™s super easy to use and highly effective.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i can see myself using this for a long time.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product fits all my requirements.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "iâ€™m in love with the sleek design.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "it was packaged very securely and professionally.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product performs wonderfully in every aspect.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "iâ€™ve received a lot of compliments on this product.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the customer support was friendly and responsive.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "itâ€™s the best product iâ€™ve come across this year.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product arrived even earlier than expected.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product is exactly as described, if not better.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i would happily purchase this again.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "this brand has never disappointed me.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "itâ€™s exactly what i needed for my project.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product is a fantastic solution to my problem.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the attention to detail is incredible.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i couldnâ€™t ask for anything more from this product.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "iâ€™m impressed with the innovation behind this product.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "it works seamlessly without any issues.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product is well worth the hype.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "itâ€™s very easy to install and set up.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "this is a must-have for anyone in need of quality.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "it has exceeded my expectations in every way.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "iâ€™m really glad i gave this product a try.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "iâ€™ve been using it non-stop since i received it.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the durability of this product is remarkable.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "itâ€™s very comfortable to hold and use.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "iâ€™m absolutely satisfied with this purchase.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product is a step above the rest.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "itâ€™s the perfect solution to my problem.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i will definitely be back to buy more.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product's functionality is flawless.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "i'm very impressed with the overall quality.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "the product adds great value to my daily routine.",
         "sentiment": "positive"
     },
     {
@@ -66376,6 +66379,29 @@
         "sentiment": "positive"
     },
     {
+        "review": "The contents in this product are very suspicious",
+        "sentiment": "neutral"
+    },
+    {
+        "review": "no good",
+        "sentiment": "negative"
+    },
+    {
+        "review": "this product is no good",
+        "sentiment": "negative"
+    },
+
+
+    {
+        "review": "flabbergast",
+        "sentiment" : "positive"
+    },
+    {
+        "review": "flabbergasted",
+        "sentiment" : "positive"
+    },
+
+    {
         "review": "learning how to drive from millwoods …",
         "sentiment": "neutral"
     },
@@ -66436,25 +66462,11 @@
         "sentiment": "positive"
     },
     {
-        "review": "n/a n/a",
-        "sentiment": "neutral"
-    },
-    {
         "review": "how can i fine out.if i can get a …",
         "sentiment": "neutral"
     },
-    {
-        "review": "great company",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great search engine",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best website",
-        "sentiment": "positive"
-    },
+   
+    
     {
         "review": "best search engine and the most …",
         "sentiment": "neutral"
@@ -66487,10 +66499,7 @@
         "review": "google is part of my life!!!!",
         "sentiment": "neutral"
     },
-    {
-        "review": "i like google!!!;)",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "google was hands down the best customer …",
         "sentiment": "neutral"
@@ -66607,18 +66616,12 @@
         "review": "search engine",
         "sentiment": "neutral"
     },
-    {
-        "review": "google",
-        "sentiment": "neutral"
-    },
+    
     {
         "review": "its google",
         "sentiment": "neutral"
     },
-    {
-        "review": "nice survice",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "great job",
         "sentiment": "positive"
@@ -66627,22 +66630,12 @@
         "review": "cloud instances",
         "sentiment": "neutral"
     },
-    {
-        "review": "okay",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great services",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "active customer service",
         "sentiment": "positive"
     },
-    {
-        "review": "good",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "works for me",
         "sentiment": "neutral"
@@ -66664,10 +66657,6 @@
         "sentiment": "positive"
     },
     {
-        "review": "best search engine ever",
-        "sentiment": "positive"
-    },
-    {
         "review": "master of illusions and tricks",
         "sentiment": "neutral"
     },
@@ -66686,18 +66675,6 @@
     {
         "review": "well, they are homos and not even bige you fill? also not evin silver 1 elite meattersrer",
         "sentiment": "neutral"
-    },
-    {
-        "review": "best search",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best mail and search service",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best search engine",
-        "sentiment": "positive"
     },
     {
         "review": "lack of professional, care and work detial.",
@@ -66740,21 +66717,10 @@
         "sentiment": "neutral"
     },
     {
-        "review": "the best",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best website ever!!!",
-        "sentiment": "positive"
-    },
-    {
         "review": "ilegal",
         "sentiment": "neutral"
     },
-    {
-        "review": "great search engine",
-        "sentiment": "positive"
-    },
+
     {
         "review": "legen... wait for it... dary",
         "sentiment": "neutral"
@@ -66763,14 +66729,7 @@
         "review": "good search engine, but don't use adwords",
         "sentiment": "neutral"
     },
-    {
-        "review": "i love google!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "world's best search engine",
-        "sentiment": "positive"
-    },
+
     {
         "review": "hidden link",
         "sentiment": "neutral"
@@ -66782,10 +66741,6 @@
     {
         "review": "what would i do without google",
         "sentiment": "neutral"
-    },
-    {
-        "review": "superb",
-        "sentiment": "positive"
     },
     {
         "review": "best search engine on the planet!",
@@ -66804,14 +66759,6 @@
         "sentiment": "neutral"
     },
     {
-        "review": "awesome",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best search engine",
-        "sentiment": "positive"
-    },
-    {
         "review": "allied floor systems",
         "sentiment": "neutral"
     },
@@ -66821,7 +66768,7 @@
     },
     {
         "review": "great search engine, horrible business practices",
-        "sentiment": "positive"
+        "sentiment": "neutral"
     },
     {
         "review": "sofa and loveseats",
@@ -66876,10 +66823,6 @@
         "sentiment": "neutral"
     },
     {
-        "review": "good",
-        "sentiment": "positive"
-    },
-    {
         "review": "what should i do without you?",
         "sentiment": "neutral"
     },
@@ -66900,33 +66843,14 @@
         "sentiment": "neutral"
     },
     {
-        "review": "still the best",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great!",
-        "sentiment": "positive"
-    },
-    {
         "review": "the best search engine so far!",
         "sentiment": "neutral"
-    },
-    {
-        "review": "better search",
-        "sentiment": "positive"
     },
     {
         "review": "not as good as they use to be",
         "sentiment": "neutral"
     },
-    {
-        "review": "awesome company",
-        "sentiment": "positive"
-    },
-    {
-        "review": "excellent",
-        "sentiment": "positive"
-    },
+
     {
         "review": "even with all its faults still better than the alternative",
         "sentiment": "neutral"
@@ -66947,17 +66871,10 @@
         "review": "[external reference] search engine is better then google",
         "sentiment": "neutral"
     },
-    {
-        "review": "excellent company.",
-        "sentiment": "positive"
-    },
+
     {
         "review": "google shopping express",
         "sentiment": "neutral"
-    },
-    {
-        "review": "easy to use",
-        "sentiment": "positive"
     },
     {
         "review": "always helpful, some troubles with iphone",
@@ -66989,23 +66906,11 @@
     },
     {
         "review": "great no doubt but precision required",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great but.......",
-        "sentiment": "positive"
+        "sentiment": "neutral"
     },
     {
         "review": "google rules the internet!",
         "sentiment": "neutral"
-    },
-    {
-        "review": "best online service",
-        "sentiment": "positive"
-    },
-    {
-        "review": "well said, enrico!",
-        "sentiment": "positive"
     },
     {
         "review": "very useful tool!",
@@ -67024,40 +66929,12 @@
         "sentiment": "neutral"
     },
     {
-        "review": "best ever",
-        "sentiment": "positive"
-    },
-    {
-        "review": "amazing!",
-        "sentiment": "positive"
-    },
-    {
         "review": "google is on the top of my list for tools to search the internet. but it is much more than just a search engine.",
         "sentiment": "neutral"
     },
     {
         "review": "usefull tool for everyone.",
         "sentiment": "neutral"
-    },
-    {
-        "review": "great browser",
-        "sentiment": "positive"
-    },
-    {
-        "review": "awesome search engine!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best in the world",
-        "sentiment": "positive"
-    },
-    {
-        "review": "search is good",
-        "sentiment": "positive"
-    },
-    {
-        "review": "favorite search engine",
-        "sentiment": "positive"
     },
     {
         "review": "today you are nothing without google",
@@ -67080,10 +66957,6 @@
         "sentiment": "neutral"
     },
     {
-        "review": "perfect",
-        "sentiment": "positive"
-    },
-    {
         "review": "my go to search engine.",
         "sentiment": "neutral"
     },
@@ -67092,7 +66965,7 @@
         "sentiment": "neutral"
     },
     {
-        "review": "i'm going to \"google\" it!",
+        "review": "i'm going to google it!",
         "sentiment": "neutral"
     },
     {
@@ -67108,20 +66981,12 @@
         "sentiment": "negative"
     },
     {
-        "review": "the place to go",
-        "sentiment": "neutral"
-    },
-    {
         "review": "still the best",
         "sentiment": "positive"
     },
     {
         "review": "good quality search site",
         "sentiment": "neutral"
-    },
-    {
-        "review": "excellent",
-        "sentiment": "positive"
     },
     {
         "review": "simple and always fast",
@@ -67141,14 +67006,6 @@
     },
     {
         "review": "google chrome is like a new bff",
-        "sentiment": "positive"
-    },
-    {
-        "review": "awesome company",
-        "sentiment": "positive"
-    },
-    {
-        "review": "excellent search engine",
         "sentiment": "positive"
     },
     {
@@ -67192,24 +67049,8 @@
         "sentiment": "positive"
     },
     {
-        "review": "its google!",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "best search engine on the web!",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "best search ever",
-        "sentiment": "positive"
-    },
-    {
         "review": "we use the word google instead of search",
         "sentiment": "neutral"
-    },
-    {
-        "review": "best search engine every",
-        "sentiment": "positive"
     },
     {
         "review": "they will not take over the world",
@@ -67223,10 +67064,7 @@
         "review": "google is google.",
         "sentiment": "neutral"
     },
-    {
-        "review": "goood! :)",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "useful and adaptable",
         "sentiment": "positive"
@@ -67248,36 +67086,12 @@
         "sentiment": "neutral"
     },
     {
-        "review": "excellent search engine",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best mail service",
-        "sentiment": "positive"
-    },
-    {
-        "review": "my favorite search engine",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great search engine",
-        "sentiment": "positive"
-    },
-    {
-        "review": "always the best",
-        "sentiment": "positive"
-    },
-    {
         "review": "no 1",
         "sentiment": "negative"
     },
     {
         "review": "plenty of selection and alternatives",
         "sentiment": "neutral"
-    },
-    {
-        "review": "awesome!",
-        "sentiment": "positive"
     },
     {
         "review": "a company that delivers as promised!",
@@ -67308,10 +67122,6 @@
         "sentiment": "neutral"
     },
     {
-        "review": "excellent",
-        "sentiment": "positive"
-    },
-    {
         "review": "generally dependable and easy to use.",
         "sentiment": "neutral"
     },
@@ -67332,22 +67142,6 @@
         "sentiment": "neutral"
     },
     {
-        "review": "excellent",
-        "sentiment": "positive"
-    },
-    {
-        "review": "excellent",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the best there is",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great site",
-        "sentiment": "positive"
-    },
-    {
         "review": "anything you want at your finger tips.",
         "sentiment": "neutral"
     },
@@ -67365,12 +67159,9 @@
     },
     {
         "review": "used to be great...",
-        "sentiment": "positive"
+        "sentiment": "neutral"
     },
-    {
-        "review": "easiest search engine",
-        "sentiment": "positive"
-    },
+  
     {
         "review": "let me chose",
         "sentiment": "neutral"
@@ -67386,10 +67177,6 @@
     {
         "review": "life without google what would we do",
         "sentiment": "neutral"
-    },
-    {
-        "review": "great",
-        "sentiment": "positive"
     },
     {
         "review": "the best at its best!",
@@ -67420,10 +67207,6 @@
         "sentiment": "neutral"
     },
     {
-        "review": "great",
-        "sentiment": "positive"
-    },
-    {
         "review": "are there any others?",
         "sentiment": "neutral"
     },
@@ -67440,10 +67223,6 @@
         "sentiment": "neutral"
     },
     {
-        "review": "great",
-        "sentiment": "positive"
-    },
-    {
         "review": "clogged with unhelpful /non-fact based articles on very specific information requests.",
         "sentiment": "neutral"
     },
@@ -67454,10 +67233,6 @@
     {
         "review": "when i've lost my noodle, there's always google!",
         "sentiment": "neutral"
-    },
-    {
-        "review": "best",
-        "sentiment": "positive"
     },
     {
         "review": "google adwords",
@@ -67487,14 +67262,7 @@
         "review": "life is incomplete without you, google.",
         "sentiment": "neutral"
     },
-    {
-        "review": "excellent",
-        "sentiment": "positive"
-    },
-    {
-        "review": "excellent search tool",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "google is where it is at",
         "sentiment": "neutral"
@@ -67511,10 +67279,7 @@
         "review": "love google as it has fun pages as well as a pure search engine.",
         "sentiment": "neutral"
     },
-    {
-        "review": "awesome",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "incredible",
         "sentiment": "neutral"
@@ -67544,17 +67309,10 @@
         "sentiment": "neutral"
     },
     {
-        "review": "still great",
-        "sentiment": "positive"
-    },
-    {
         "review": "can't touch it",
         "sentiment": "neutral"
     },
-    {
-        "review": "i heart google!",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "excelent",
         "sentiment": "neutral"
@@ -67567,26 +67325,17 @@
         "review": "the search is pretty good",
         "sentiment": "positive"
     },
-    {
-        "review": "best serach engine around!!",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "google totally rock",
         "sentiment": "neutral"
     },
-    {
-        "review": "amazing!",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "when in doubt google it",
         "sentiment": "neutral"
     },
-    {
-        "review": "my favorite",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "the only search engine i use",
         "sentiment": "neutral"
@@ -67615,10 +67364,7 @@
         "review": "always there when you need them",
         "sentiment": "neutral"
     },
-    {
-        "review": "wow",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "don't know what one would do without it.",
         "sentiment": "neutral"
@@ -67631,18 +67377,12 @@
         "review": "grt",
         "sentiment": "neutral"
     },
-    {
-        "review": "fab!",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "i like there format and filters.",
         "sentiment": "neutral"
     },
-    {
-        "review": "best ever",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "the best n the best",
         "sentiment": "positive"
@@ -67683,10 +67423,7 @@
         "review": "amazing site for searching",
         "sentiment": "positive"
     },
-    {
-        "review": "excellent company",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "faabb!",
         "sentiment": "neutral"
@@ -67711,18 +67448,12 @@
         "review": "not as great as they think they are.",
         "sentiment": "neutral"
     },
-    {
-        "review": "best search engine ever",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "google is google ... its amazing",
         "sentiment": "neutral"
     },
-    {
-        "review": "great",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "makes life simple",
         "sentiment": "neutral"
@@ -67731,14 +67462,7 @@
         "review": "who doesn't use google.",
         "sentiment": "neutral"
     },
-    {
-        "review": "good",
-        "sentiment": "positive"
-    },
-    {
-        "review": "love google",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "helps me all the time",
         "sentiment": "neutral"
@@ -67757,16 +67481,13 @@
     },
     {
         "review": "always reliable especially with uni work",
-        "sentiment": "neutral"
+        "sentiment": "positive"
     },
     {
         "review": "superb company/website/online system.",
         "sentiment": "positive"
     },
-    {
-        "review": "amazing...",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "google.com is a excelent five star company",
         "sentiment": "neutral"
@@ -67784,24 +67505,8 @@
         "sentiment": "positive"
     },
     {
-        "review": "i <3 u",
-        "sentiment": "positive"
-    },
-    {
         "review": "what would i do without you?",
         "sentiment": "neutral"
-    },
-    {
-        "review": "good place",
-        "sentiment": "positive"
-    },
-    {
-        "review": "love google",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the best!",
-        "sentiment": "positive"
     },
     {
         "review": "i had a strange experience",
@@ -67820,22 +67525,6 @@
         "sentiment": "positive"
     },
     {
-        "review": "best one!!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "love it!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "wonderful",
-        "sentiment": "positive"
-    },
-    {
-        "review": "excellent",
-        "sentiment": "positive"
-    },
-    {
         "review": "the best search engine!!!",
         "sentiment": "positive"
     },
@@ -67843,10 +67532,7 @@
         "review": "is there any other way to search?",
         "sentiment": "neutral"
     },
-    {
-        "review": "best",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "fantastic services and products",
         "sentiment": "positive"
@@ -67859,22 +67545,12 @@
         "review": "fast online service",
         "sentiment": "neutral"
     },
-    {
-        "review": "great",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "the be all and end all",
         "sentiment": "neutral"
     },
-    {
-        "review": "best search engine",
-        "sentiment": "positive"
-    },
-    {
-        "review": "useful",
-        "sentiment": "positive"
-    },
+  
     {
         "review": "good but not great",
         "sentiment": "negative"
@@ -67899,10 +67575,7 @@
         "review": "i like what they are doing.",
         "sentiment": "neutral"
     },
-    {
-        "review": "best search engine",
-        "sentiment": "positive"
-    },
+  
     {
         "review": "the best internet browser",
         "sentiment": "positive"
@@ -67923,10 +67596,7 @@
         "review": "definitive search engine",
         "sentiment": "neutral"
     },
-    {
-        "review": "easy to use helpful to find what i am looking for",
-        "sentiment": "neutral"
-    },
+   
     {
         "review": "easy to use",
         "sentiment": "positive"
@@ -67940,20 +67610,12 @@
         "sentiment": "neutral"
     },
     {
-        "review": "great",
-        "sentiment": "positive"
-    },
-    {
         "review": "love google",
         "sentiment": "positive"
     },
     {
         "review": "this web site about very goog you au",
         "sentiment": "neutral"
-    },
-    {
-        "review": "love google",
-        "sentiment": "positive"
     },
     {
         "review": "google it!",
@@ -67963,29 +67625,15 @@
         "review": "never without it",
         "sentiment": "neutral"
     },
-    {
-        "review": "best search engine ever",
-        "sentiment": "positive"
-    },
-    {
-        "review": "love it",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "i use google more often than not to navigate",
         "sentiment": "neutral"
     },
-    {
-        "review": "i love the google",
-        "sentiment": "positive"
-    },
+
     {
         "review": "endless information!",
         "sentiment": "neutral"
-    },
-    {
-        "review": "great  search engine",
-        "sentiment": "positive"
     },
     {
         "review": "my favorite searche engine",
@@ -67999,10 +67647,7 @@
         "review": "superb search engine",
         "sentiment": "positive"
     },
-    {
-        "review": "love it",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "love it, cannot live without it",
         "sentiment": "neutral"
@@ -68013,10 +67658,6 @@
     },
     {
         "review": "safe and secure",
-        "sentiment": "positive"
-    },
-    {
-        "review": "perfect!",
         "sentiment": "positive"
     },
     {
@@ -68039,26 +67680,12 @@
         "review": "...",
         "sentiment": "neutral"
     },
-    {
-        "review": "i google it :d",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "very good",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "bravo! google jaisa kohi nahi",
         "sentiment": "neutral"
     },
-    {
-        "review": "wonderful",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "google is best",
         "sentiment": "positive"
@@ -68087,10 +67714,7 @@
         "review": "google is a doodle ; )",
         "sentiment": "neutral"
     },
-    {
-        "review": "can't go wrong",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "poor",
         "sentiment": "negative"
@@ -68103,10 +67727,7 @@
         "review": "turns the tip of you toung into the tips of your fingers",
         "sentiment": "neutral"
     },
-    {
-        "review": "the best",
-        "sentiment": "positive"
-    },
+ 
     {
         "review": "breakdown",
         "sentiment": "neutral"
@@ -68123,25 +67744,10 @@
         "review": "never disapoints",
         "sentiment": "neutral"
     },
-    {
-        "review": "the tops!!!",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "sale polo shirts",
         "sentiment": "neutral"
-    },
-    {
-        "review": "good work",
-        "sentiment": "positive"
-    },
-    {
-        "review": "i think the best one",
-        "sentiment": "positive"
-    },
-    {
-        "review": "very nice",
-        "sentiment": "positive"
     },
     {
         "review": "always information at your fingertips......brilliant",
@@ -68164,57 +67770,10 @@
         "sentiment": "positive"
     },
     {
-        "review": "filtering and site blocking",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "love google",
-        "sentiment": "positive"
-    },
-    {
-        "review": "to google: a verb in the dutch language",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "great source",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the best",
-        "sentiment": "positive"
-    },
-    {
-        "review": "brilliant!!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "amazing",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "amazing!",
-        "sentiment": "positive"
-    },
-    {
-        "review": "highly recommended",
-        "sentiment": "positive"
-    },
-    {
-        "review": "nice.",
-        "sentiment": "positive"
-    },
-    {
         "review": "i use google for all my search needs",
         "sentiment": "neutral"
     },
-    {
-        "review": "best search engine",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "most innovative company",
         "sentiment": "positive"
@@ -68237,7 +67796,7 @@
     },
     {
         "review": "product great. service non-existent",
-        "sentiment": "positive"
+        "sentiment": "neutral"
     },
     {
         "review": "no respect for privacy",
@@ -68251,14 +67810,7 @@
         "review": "doesn't get any better",
         "sentiment": "neutral"
     },
-    {
-        "review": "good",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great info site",
-        "sentiment": "positive"
-    },
+
     {
         "review": "google rules.",
         "sentiment": "neutral"
@@ -68276,13 +67828,14 @@
         "sentiment": "positive"
     },
     {
-        "review": "i would recommend this hostel to anyone,",
+        "review": "i would recommend this hostel to anyone",
         "sentiment": "neutral"
     },
     {
-        "review": "great search engine",
-        "sentiment": "positive"
+        "review": "i don't like this product",
+        "sentiment": "negative"
     },
+ 
     {
         "review": "does not respect privacy",
         "sentiment": "neutral"
@@ -68315,10 +67868,7 @@
         "review": "my favourite website for searching",
         "sentiment": "neutral"
     },
-    {
-        "review": "very good",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "google",
         "sentiment": "neutral"
@@ -68335,14 +67885,7 @@
         "review": "what can i say!",
         "sentiment": "neutral"
     },
-    {
-        "review": "i love you google",
-        "sentiment": "positive"
-    },
-    {
-        "review": "very useful and fast",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "everything you need to know or want to know!",
         "sentiment": "neutral"
@@ -68355,10 +67898,7 @@
         "review": "5 diamond. but you knew that already about google.",
         "sentiment": "neutral"
     },
-    {
-        "review": "amazing",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "promotes scam review sites",
         "sentiment": "negative"
@@ -68371,10 +67911,7 @@
         "review": "hmm go last",
         "sentiment": "neutral"
     },
-    {
-        "review": "good.",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "easy 2 find yr wants quickly.",
         "sentiment": "neutral"
@@ -68383,10 +67920,7 @@
         "review": "the best search engine ever!",
         "sentiment": "positive"
     },
-    {
-        "review": "the best search engine/e-mail!",
-        "sentiment": "positive"
-    },
+  
     {
         "review": "probably going to be a baby's first word one day soon!",
         "sentiment": "neutral"
@@ -68395,22 +67929,7 @@
         "review": "very good site to go for all information",
         "sentiment": "neutral"
     },
-    {
-        "review": "best firm in the world?.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "best",
-        "sentiment": "positive"
-    },
-    {
-        "review": "good",
-        "sentiment": "positive"
-    },
-    {
-        "review": "perfect",
-        "sentiment": "positive"
-    },
+    
     {
         "review": "how can you dislike google?",
         "sentiment": "neutral"
@@ -68419,18 +67938,7 @@
         "review": "very good",
         "sentiment": "positive"
     },
-    {
-        "review": "simply the best :)",
-        "sentiment": "positive"
-    },
-    {
-        "review": "google super",
-        "sentiment": "positive"
-    },
-    {
-        "review": "good",
-        "sentiment": "positive"
-    },
+
     {
         "review": "perfect way to found in the web",
         "sentiment": "neutral"
@@ -68447,10 +67955,7 @@
         "review": "the only search engine that i use!",
         "sentiment": "neutral"
     },
-    {
-        "review": "awesome",
-        "sentiment": "positive"
-    },
+   
     {
         "review": "the best service in web",
         "sentiment": "positive"
@@ -68463,14 +67968,7 @@
         "review": "10/10",
         "sentiment": "neutral"
     },
-    {
-        "review": "too easy to trick",
-        "sentiment": "positive"
-    },
-    {
-        "review": "wonderful website! i like",
-        "sentiment": "positive"
-    },
+  
     {
         "review": "anything, everything",
         "sentiment": "neutral"
@@ -68610,118 +68108,6 @@
     {
         "review": "best search engine by far!!!",
         "sentiment": "positive"
-    },
-    {
-        "review": "very good browser",
-        "sentiment": "positive"
-    },
-    {
-        "review": "mrs  elizabeth taylor",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "wonderful place to buy pet food... great prices and cheap shipping!",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "best search engine out there",
-        "sentiment": "positive"
-    },
-    {
-        "review": "great",
-        "sentiment": "positive"
-    },
-    {
-        "review": "good",
-        "sentiment": "positive"
-    },
-    {
-        "review": "simply wonderful",
-        "sentiment": "positive"
-    },
-    {
-        "review": "google is awesome",
-        "sentiment": "positive"
-    },
-    {
-        "review": "good engine",
-        "sentiment": "positive"
-    },
-    {
-        "review": "the best !",
-        "sentiment": "positive"
-    },
-    {
-        "review": "come on, it's google.",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "very fast downloads",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "world class systems - just scared that they are like big brother!",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "just great",
-        "sentiment": "positive"
-    },
-    {
-        "review": "gives me what i want...",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "the best.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "it's google!",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "what can i say",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "fantastic search engine.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "fast responsive",
-        "sentiment": "positive"
-    },
-    {
-        "review": "very good performance.",
-        "sentiment": "positive"
-    },
-    {
-        "review": "in my opinion, the most consistently reliable search engine",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "innovative company",
-        "sentiment": "positive"
-    },
-    {
-        "review": "can always find what i am after",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "google keeps me up to date",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "nice but no cigar",
-        "sentiment": "negative"
-    },
-    {
-        "review": "10/10",
-        "sentiment": "neutral"
-    },
-    {
-        "review": "love it, never use any other engine",
-        "sentiment": "neutral"
     },
     {
         "review": "google rocks",

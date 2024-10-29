@@ -4,7 +4,6 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer
 
-
 tokenizer_path = 'tokenizer.pkl'
 
 class SentiToolKit:
@@ -13,11 +12,11 @@ class SentiToolKit:
         self.vocab_size = vocab_size
         self.tokenizer = None
 
-    
+        # Load the trained model
         self.model = tf.keras.models.load_model(model_path)
         print("Model loaded successfully from", model_path)
 
- 
+        # Load the tokenizer
         self.load_tokenizer(tokenizer_path)
 
     def load_tokenizer(self, tokenizer_path):
@@ -32,33 +31,33 @@ class SentiToolKit:
             raise FileNotFoundError(f"Tokenizer file not found at {tokenizer_path}. Please ensure it is available.")
 
     def prepare_text(self, sentence):
-        
+        """
+        Preprocess a sentence by tokenizing and padding it.
+        """
         if self.tokenizer is None:
             raise ValueError("Tokenizer not loaded. Ensure that the tokenizer is correctly loaded.")
         
-   
         sequence = self.tokenizer.texts_to_sequences([sentence])
-      
         padded = pad_sequences(sequence, maxlen=self.maxlen)
         return padded
 
     def __call__(self, sentence):
+        """
+        Predict the sentiment of a given sentence.
+        """
         prepared_text = self.prepare_text(sentence)
         prediction = self.model.predict(prepared_text)
         predicted_class = prediction.argmax(axis=-1)
         predicted_probs = prediction[0]
 
         print("Predicted probabilities:", prediction)
-        if predicted_probs[2] > 0.95:  
+        
+        if predicted_probs[2] > 0.7:  
             return 'Positive'
-        elif predicted_probs[1] > 0.5:
+        elif predicted_probs[1] > 0.4:
             return 'Neutral'
-        elif predicted_probs[0] > 0.5:  
+        else:  
             return 'Negative'
-        else:
-            return 'Uncertain'  
-       
-
 
 
 if __name__ == '__main__':
