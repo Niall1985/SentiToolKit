@@ -18,7 +18,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="SentiToolKit",
-    version="0.1.7", 
+    version="0.1.8", 
     packages=find_packages(),
     package_data={
         'SentiAnalyzer': ['SentiToolKit.keras', 'tokenizer.pkl'], 

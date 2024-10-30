@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: SentiToolKit
-Version: 0.1.7
+Version: 0.1.8
 Summary: A sentiment analysis toolkit using a trained TensorFlow model
 Home-page: https://github.com/Niall1985/SentiToolKit
 Author: Niall Dcunha
@@ -15,7 +15,7 @@ Requires-Dist: tensorflow>=2.0
 Requires-Dist: scikit-learn
 
 
-# SentiToolKit &nbsp; ![version](https://img.shields.io/badge/version-0.1.7-blue) ![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen) ![License](https://img.shields.io/badge/license-GNU%20License-yellow)
+# SentiToolKit &nbsp; ![version](https://img.shields.io/badge/version-0.1.8-blue) ![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen) ![License](https://img.shields.io/badge/license-GNU%20License-yellow)
 
 SentiToolKit is a simple sentiment analysis library that leverages LSTM (Long Short-Term Memory) neural networks for predicting the sentiment of a given text. This toolkit provides a streamlined interface for text preprocessing, model loading, and prediction.
 
@@ -32,7 +32,7 @@ SentiToolKit is a simple sentiment analysis library that leverages LSTM (Long Sh
 You can install the `SentiToolKit` package via pip:
 
 ```bash
-pip install SentiToolKit==1.0.6
+pip install SentiToolKit==1.0.8
 ```
 
 Alternatively, if you'd like to build from source:
