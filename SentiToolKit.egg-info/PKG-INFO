@@ -6,7 +6,7 @@ Home-page: https://github.com/Niall1985/SentiToolKit
 Author: Niall Dcunha
 Author-email: dcunhaniall@gmail.com
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: GNU AFFERO GENERAL PUBLIC LICENSE
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown

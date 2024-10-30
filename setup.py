@@ -19,7 +19,7 @@ setup(
     url="https://github.com/Niall1985/SentiToolKit",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU AFFERO GENERAL PUBLIC LICENSE",
+        "License :: OSI Approved :: GNU Affero General Public License v3",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
