@@ -5,7 +5,7 @@ SentiToolKit is a simple sentiment analysis library that leverages LSTM (Long Sh
 
 ## ✨ Features
 
-- **Pre-trained Model**: Uses a pre-trained LSTM model for sentiment analysis.
+- **Pre-trained Model**: Uses a trained LSTM model for sentiment analysis.
 - **Tokenization Support**: Handles text tokenization with a customizable vocabulary size.
 - **Sentiment Prediction**: Predicts whether a text is `Positive`, `Neutral`, or `Negative`.
 - **Easy to Use**: Minimal setup required to get predictions.
