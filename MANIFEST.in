@@ -1,0 +1,2 @@
+include SentiToolKit/SentiToolKit.keras
+include SentiToolKit/tokenizer.pkl

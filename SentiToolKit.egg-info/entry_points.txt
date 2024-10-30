@@ -1,2 +1,2 @@
 [console_scripts]
-sentitoolkit = senti_toolkit:main
+sentitoolkit = SentiAnalyzer.Main_tensor_model:main

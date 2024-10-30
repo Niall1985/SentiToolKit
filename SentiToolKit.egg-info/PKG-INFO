@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: SentiToolKit
-Version: 0.1.1
-Summary: A sentiment analysis toolkit using a pre-trained TensorFlow model
+Version: 0.1.7
+Summary: A sentiment analysis toolkit using a trained TensorFlow model
 Home-page: https://github.com/Niall1985/SentiToolKit
 Author: Niall Dcunha
 Author-email: dcunhaniall@gmail.com
@@ -15,7 +15,7 @@ Requires-Dist: tensorflow>=2.0
 Requires-Dist: scikit-learn
 
 
-# SentiToolKit &nbsp; ![version](https://img.shields.io/badge/version-0.1.1-blue) ![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen) ![License](https://img.shields.io/badge/license-GNU%20License-yellow)
+# SentiToolKit &nbsp; ![version](https://img.shields.io/badge/version-0.1.7-blue) ![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen) ![License](https://img.shields.io/badge/license-GNU%20License-yellow)
 
 SentiToolKit is a simple sentiment analysis library that leverages LSTM (Long Short-Term Memory) neural networks for predicting the sentiment of a given text. This toolkit provides a streamlined interface for text preprocessing, model loading, and prediction.
 
@@ -32,7 +32,7 @@ SentiToolKit is a simple sentiment analysis library that leverages LSTM (Long Sh
 You can install the `SentiToolKit` package via pip:
 
 ```bash
-pip install SentiToolKit
+pip install SentiToolKit==1.0.6
 ```
 
 Alternatively, if you'd like to build from source:
@@ -55,14 +55,26 @@ Alternatively, if you'd like to build from source:
 To get started with SentiToolKit, follow the example below:
 
 ```python
-from SentiToolKit import SentiToolKit
+# test_model.py
 
-# Initialize the sentiment toolkit with pre-trained model and tokenizer
-senti_toolkit = SentiToolKit(model_path='SentiToolKit.keras', tokenizer_path='tokenizer.pkl')
+# Import the SentiToolKit class from your package
+from SentiAnalyzer.Main_tensor_model import SentiToolKit
 
-# Predict the sentiment of a sentence
-result = senti_toolkit("I love using SentiToolKit for sentiment analysis!")
-print(f"Predicted sentiment: {result}")  # Output: Positive
+def main():
+    # Instantiate the model
+    model = SentiToolKit()
+
+    # Get user input for testing
+    review = input("Enter a review for sentiment analysis: ")
+
+    # Call the model to get the sentiment
+    sentiment = model.__call__(review)
+
+    # Print the result
+    print("Sentiment Analysis Result:", sentiment)
+
+if __name__ == "__main__":
+    main()
 ```
 
 ## 🧰 Usage
@@ -78,15 +90,34 @@ print(f"Predicted sentiment: {result}")  # Output: Positive
 
 ```
 SentiToolKit/
-├── SentiToolKit/
-│   ├── __init__.py
-│   ├── toolkit.py
-├── README.md
-├── LICENSE
-├── setup.py
-├── requirements.txt
-├── tokenizer.pkl
-├── SentiToolKit.keras
+├── converter.py                 
+├── converter1.py
+├── dataExtractor.py             
+├── tensor_model.py              
+├── usage.py                    
+├── json/                        
+│   ├── backup.json              
+│   ├── negative_reviews.json    
+│   ├── neutral_reviews.json     
+│   ├── positive_reviews.json    
+│   └── train.json               
+├── SentiAnalyzer/               
+│   ├── __init__.py              
+│   ├── Main_tensor_model.py     
+│   ├── SentiToolKit.keras       
+│   └── tokenizer.pkl            
+├── tests/                       
+├── text/                        
+├── .env                         
+├── .gitignore                   
+├── LICENSE                      
+├── MANIFEST.in                  
+├── pyproject.toml               
+├── README.md                    
+├── SentiToolKit.keras           
+├── setup.py                     
+└── tokenizer.pkl                
+
 ```
 
 ## 📄 License
@@ -97,16 +128,15 @@ This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3,.
 
 - Add support for additional languages.
 - Fine-tune the pre-trained model for domain-specific tasks.
-- Implement an API for real-time sentiment analysis.
 
 ## 👥 Contributing
 
 Contributions are welcome! If you’d like to contribute to SentiToolKit, feel free to fork the repository and submit a pull request.
 
 1. Fork the repo.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
+2. Create your feature branch
+3. Commit your changes 
+4. Push to the branch 
 5. Open a pull request.
 
 ## 📬 Contact

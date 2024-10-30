@@ -1,2 +1,2 @@
-sentitoolkit
+SentiAnalyzer
 tests
