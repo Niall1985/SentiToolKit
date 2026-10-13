@@ -16,7 +16,7 @@ SentiToolKit is a simple sentiment analysis package that leverages LSTM (Long Sh
 You can install the `SentiToolKit` package via pip:
 
 ```bash
-pip install SentiToolKit==1.0.8
+pip install SentiToolKit==0.1.8
 ```
 
 Alternatively, if you'd like to build from source:
